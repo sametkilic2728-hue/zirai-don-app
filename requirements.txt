@@ -1,0 +1,5 @@
+flet
+requests
+geopy
+pymysql
+flet-geolocator
